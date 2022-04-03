@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="prefs_key_inapp_review_dialog_counter" translatable="false">inapp_review_dialog_counter</string>
+	<string name="prefs_key_rate_app_prompt_counter" translatable="false">rate_app_prompt_counter</string>
+	<string name="prefs_key_fcm_registration_token" translatable="false">fcm_registration_token</string>
+	<string name="prefs_key_one_signal_user_id" translatable="false">one_signal_user_id</string>
+</resources>
